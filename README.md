@@ -1,4 +1,4 @@
-![example event parameter](https://github.com/kaspeya/foodgram-project-react/actions/workflows/foodgram_workflow.yml/badge.svg?event=push)
+![example event parameter](https://github.com/kaspeya/project-django-react/actions/workflows/workflow.yml/badge.svg?event=push)
 
 ## Описание: 
 
